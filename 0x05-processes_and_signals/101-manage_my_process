@@ -10,7 +10,6 @@ elif [ -n "$2" ]
   exit
 fi
 
-
 # executet the command line arguments
 if [ "$1" == "start" ]
 then
