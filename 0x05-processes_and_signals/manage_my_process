@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-# well well well
+#!/bin/bash
 
 file="/tmp/my_process"
 
